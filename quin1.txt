@@ -229,3 +229,8 @@
   229  history
   230  clear
   231  history > quin1.txt
+  293  nano boto3-evening
+  294  vi boto3-evening
+  295  pwd
+  296  ls
+  297  history 5 >> quin1.txt
